@@ -1,0 +1,10 @@
+print ("buddy the robot says hi!")
+name = input("what is your name? ")
+print("Hello, " + name + ". good morning!")
+print("I am 5 years old. how old are you?")
+age = input()
+print("You are " + age + " years old, " + name + ". Thats nice!")
+print("let me tell you a secret, " + name + ". I am a robot and I can do many things. I can even count to 10 for you. I am going to count to 10 now, " + name + ". 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100. I am done counting now, " + name + ". I hope you liked it!")
+
+length = len(name)
+print ("Your name has " + str(length) + " letters in it, ")
