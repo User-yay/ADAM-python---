@@ -4,12 +4,12 @@ class parrot:
         self.age = age
 
 
-        def sing (self, song):
+    def sing (self, song):
             return "{} sings {}".format(self.name, song)
 
-        def dance(self):
+    def dance(self):
             return "{} is now dancing" .format(self.name)
 
 blu = parrot("blu", 7)
 print(blu.sing("Happy"))
-print(woo.dance())
+print(blu.dance())
