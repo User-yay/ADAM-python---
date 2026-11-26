@@ -10,4 +10,5 @@ my_dict = {1: n, 2: n*n, 3: n*n*n, 4: n*n*n*n, 5: n*n*n*n*n, 6: n*n*n*n*n*n, 7: 
 
 '''
 help me pls in next class
+this is power series+find the value by acident
 '''
